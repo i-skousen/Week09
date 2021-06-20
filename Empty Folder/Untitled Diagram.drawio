@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T04:56:56.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="F49VFo6MLRWueEALtlZI" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-20T05:00:41.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ps6zJiVV75V6K07tN2Y0" version="14.8.0" type="github">
   <diagram id="rguHkUJNCdWoJHxLz1bB" name="Main">
-    <mxGraphModel dx="723" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,7 +288,7 @@
           <mxGeometry x="410" y="1060" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ouV6f6dpfnicYTkGdIAP-43" value="setTimePenalty()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="966" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="791" y="734.41" width="120" height="85.59" as="geometry" />
         </mxCell>
         <mxCell id="ouV6f6dpfnicYTkGdIAP-50" value="getString()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="574.5" y="981" width="120" height="60" as="geometry" />
@@ -296,14 +296,12 @@
         <mxCell id="ouV6f6dpfnicYTkGdIAP-51" value="sendString()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720.5" y="981" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mvc_CKgihEDWktyKTYWP-10" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=-0.025;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ouV6f6dpfnicYTkGdIAP-43" target="XmJ7mHtLs4GO2itL8WQK-5" edge="1">
+        <mxCell id="Mvc_CKgihEDWktyKTYWP-10" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="XmJ7mHtLs4GO2itL8WQK-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="890" as="sourcePoint" />
+            <mxPoint x="788" y="760" as="sourcePoint" />
             <mxPoint x="760" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="735" />
-              <mxPoint x="650" y="735" />
-              <mxPoint x="320" y="735" />
+              <mxPoint x="320" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -312,7 +310,7 @@
         </mxCell>
         <mxCell id="Mvc_CKgihEDWktyKTYWP-13" value="" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="960" y="810" as="sourcePoint" />
+            <mxPoint x="790" y="810" as="sourcePoint" />
             <mxPoint x="320" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="810" />
